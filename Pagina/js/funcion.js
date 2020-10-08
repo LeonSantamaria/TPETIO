@@ -7,6 +7,6 @@ function Validar(){
     if(string1 == string2){
         return alert("Correcto (No eres un robot)");
     }else{
-        return alert("Incorrecto (ERES UN ROBOT)");
+        return alert("Incorrecto");
     }
 }
